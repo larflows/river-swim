@@ -3,7 +3,7 @@ SWMM + HEC-RAS automatic coupling.  [May or may not actually happen.]
 
 # Functionality
 
-Intended functionality.  Not all of this may be implemented.  At the time of writing (11/25/2019), none of it is and the project may or may not go forward.
+Intended functionality.  Not all of this may be implemented.  At the time of writing (11/25/2019), none of it is (aside from pre-existing functionality in PyRASFile) and the project may or may not go forward.
 
 ## Critical Functionality
 
