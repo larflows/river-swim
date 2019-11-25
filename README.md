@@ -3,7 +3,7 @@ SWMM + HEC-RAS automatic coupling.  [May or may not actually happen.]
 
 # Installation
 
-Clone this project with `git clone https://github.com/larflows/river-swim`.  Then go into the river-swim directory and run `git clone https://github.com/larflows/PyRASFile ras_file` to retrieve the PyRASFile dependency.
+Clone this project with `git clone --recurse-submodules https://github.com/larflows/river-swim`.  The `--recurse-submodules` flag is necessary in order to also clone PyRASFile, which will be localed in the `ras_file/` subdirectory.
 
 The project is only tested with Python 3.  It may or may not work with Python 2.
 
